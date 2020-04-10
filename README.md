@@ -18,4 +18,4 @@ Dataset had 33 columns, I was interested in the following population groups and 
 The dataset was imported into Pandas dataframe and was cleaned to focus on obesity vs the 4 features that I was interested in. 
 
 - First, I wanted to check the top 5 most and least obese states for years 2011 to 2015. 
-![image](./images/leastobese.png)
+![image](./leastobese.png)
